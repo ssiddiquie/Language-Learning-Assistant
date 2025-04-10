@@ -78,11 +78,3 @@ You can contribute by adding content, improving guides, or suggesting changes. T
 3. Open a pull request with a short description
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like to include sample file/folder structures or a logo for the project too!
